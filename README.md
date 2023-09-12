@@ -5,3 +5,5 @@ The idea of "self-awareness" is required to establish an Immune system in a smar
 We require external data to assess models and offer solutions. As a result, we built a smart house model in the Ptolemy utilizing an Accessors-based software architecture. In an event log file, this architecture captures communication messages between each part of the smart home. This data is used to train and test models and algorithms.
 
 Finally, we were able to build and deploy an immune system in the smart home by combining actor models with deep learning techniques. This application has significance for bringing self-awareness to the smart home and eliminating the need for human involvement in identifying abnormalities and diagnosing their causes.
+
+keyword: Internet of Things (IoT), Smart Homes, Accessors, Ptolemy, Actor Model, Deep learning
